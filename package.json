@@ -1,0 +1,24 @@
+{
+  "name": "gitpod-obniz-airtable-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ft-seabass/gitpod-obniz-airtable-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ft-seabass/gitpod-obniz-airtable-sample/issues"
+  },
+  "homepage": "https://github.com/1ft-seabass/gitpod-obniz-airtable-sample#readme",
+  "dependencies": {
+    "airtable": "^0.11.1",
+    "obniz": "^3.18.0"
+  }
+}
